@@ -1,6 +1,9 @@
 bash-backup
 ===========
 
+Foi criado no âmbito profissional para efetuar backups de uma máquina Linux que servia de servidor de ficheiros para toda a empresa.
+Testado e implementado com sucesso!
+
 This small application can use rsync to backup the folders specified by the user.
 
 ## basis functions
